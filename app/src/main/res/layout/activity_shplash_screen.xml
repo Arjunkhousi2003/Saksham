@@ -12,9 +12,6 @@
         android:layout_marginLeft="30dp"
         android:id="@+id/splashimage"
         android:background="@drawable/splash">
-
     </ImageView>
-
-
 
 </RelativeLayout>
