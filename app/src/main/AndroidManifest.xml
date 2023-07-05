@@ -25,6 +25,9 @@
                 android:value="" />
         </activity>
         <activity
+            android:name=".Login_Activity"
+            android:exported="false" />
+        <activity
             android:name=".SplashScreen"
             android:exported="true">
             <intent-filter>
